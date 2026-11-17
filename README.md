@@ -133,4 +133,10 @@ Shadowrocket 是中国区 App Store **不提供**的应用（不是"买不到"�
 
 ---
 
+## 相关指南
+
+- [免费 Apple ID 共享账号使用指南](https://github.com/cointaboo/free-apple-id-share)
+- [日区 Apple ID 共享账号使用指南](https://github.com/cointaboo/jp-apple-id-share)
+- [Apple ID 被锁定 / 已停用怎么办](https://github.com/cointaboo/apple-id-locked-fix)
+
 <sub>最后更新：2026-11-17</sub>
